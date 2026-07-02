@@ -1,5 +1,9 @@
 # SWAPYX
 
+DOCS : https://swapyx.app/docs/
+Roadmap : https://swapyx.app/roadmap/
+Explore : https://swapyx.app/explorer/
+
 > Complete Swap Infrastructure for Robinhood Chain.
 
 Swapyx is a developer-first swap infrastructure built for the Robinhood Chain Testnet, providing fast token swaps, liquidity routing, comprehensive APIs, SDKs, and documentation to help builders launch seamless trading experiences.
